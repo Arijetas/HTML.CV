@@ -305,6 +305,7 @@ footer span a:hover {
     padding: 40px 0;
     text-align: center;
     background: #222;
+    z-index: 3;
     transition: all 0.3s ease;
   }
   .navbar.show .menu-list {
